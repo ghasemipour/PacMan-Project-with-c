@@ -1,0 +1,3 @@
+D:/melika/PacmanEdition25/cmake-build-debug/CMakeFiles/PacmanEdition25.dir
+D:/melika/PacmanEdition25/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/melika/PacmanEdition25/cmake-build-debug/CMakeFiles/rebuild_cache.dir
